@@ -13,5 +13,5 @@ https://docs.hazelcast.com/imdg/4.1.2/plugins/cloud-discovery#hazelcast-cloud-di
 GCP:
 https://docs.hazelcast.com/imdg/4.1.2/plugins/cloud-discovery#hazelcast-cloud-discovery-plugins-gcp
 
-Hazelcast Discovery Plugin for Eureka:
+Eureka:
 https://github.com/hazelcast/hazelcast-eureka
